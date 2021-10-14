@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: black;
+    color:whitesmoke;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monspace;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+    color:whitesmoke;
+    font-family: monospace;
+}
+
+#origami1{
+   background-color:rebeccapurple;
+   font-family: monospace;
+   color:whitesmoke;
+}
+
+#origami2{
+ background-color:red;
+ font-family: monospace;
+ color:whitesmoke;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
